@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16673
   title: ཀློང་སྙིང་སྒྲུབ་མཆོད་ལས་འགྲིག་དང་དཔེ་རིས།
-  volume: ''
+  volume:
+    cf55bad4300241799c7f04503be61a76:
+      image_group_id: I2PD18156
+      title: Volume 1 of klong snying sgrub mchod las 'grig dang dpe ris/
+      volume_number: 1
+      total_pages: 286
   author: ''
+ebook_metadata:
+  title: ཀློང་སྙིང་སྒྲུབ་མཆོད་ལས་འགྲིག་དང་དཔེ་རིས།
+  author: ''
+  sku: P007860
+  cover: cover.jpg
+  layers:
+  - pagination
